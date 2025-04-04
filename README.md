@@ -1,2 +1,2 @@
-# Cyber-security-Project
-Projects in cyber security
+# AWS-Cloud-Security-Automation
+Automating Cloud security
